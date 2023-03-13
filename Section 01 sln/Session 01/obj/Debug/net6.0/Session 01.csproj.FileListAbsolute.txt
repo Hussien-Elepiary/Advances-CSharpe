@@ -1,0 +1,12 @@
+F:\BackEnd\Advanced C#\Section 01 sln\Session 01\bin\Debug\net6.0\Session 01.deps.json
+F:\BackEnd\Advanced C#\Section 01 sln\Session 01\bin\Debug\net6.0\Session 01.dll
+F:\BackEnd\Advanced C#\Section 01 sln\Session 01\bin\Debug\net6.0\Session 01.pdb
+F:\BackEnd\Advanced C#\Section 01 sln\Session 01\obj\Debug\net6.0\Session 01.csproj.AssemblyReference.cache
+F:\BackEnd\Advanced C#\Section 01 sln\Session 01\obj\Debug\net6.0\Session 01.GeneratedMSBuildEditorConfig.editorconfig
+F:\BackEnd\Advanced C#\Section 01 sln\Session 01\obj\Debug\net6.0\Session 01.AssemblyInfoInputs.cache
+F:\BackEnd\Advanced C#\Section 01 sln\Session 01\obj\Debug\net6.0\Session 01.AssemblyInfo.cs
+F:\BackEnd\Advanced C#\Section 01 sln\Session 01\obj\Debug\net6.0\Session 01.csproj.CoreCompileInputs.cache
+F:\BackEnd\Advanced C#\Section 01 sln\Session 01\obj\Debug\net6.0\Session 01.dll
+F:\BackEnd\Advanced C#\Section 01 sln\Session 01\obj\Debug\net6.0\refint\Session 01.dll
+F:\BackEnd\Advanced C#\Section 01 sln\Session 01\obj\Debug\net6.0\Session 01.pdb
+F:\BackEnd\Advanced C#\Section 01 sln\Session 01\obj\Debug\net6.0\ref\Session 01.dll
