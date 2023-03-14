@@ -1,11 +1,7 @@
 ﻿using Session_01.Employee;
 using Session_01.Point;
 using Session_01;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Ginaric_and_Non_Ginaric_Collections;
 
 namespace Section_01
 {
@@ -121,9 +117,71 @@ namespace Section_01
             {
                 Console.WriteLine(emp);
             }
+        }
 
+        public static void NonGenericCollections()
+        {
+            int Qnumber;
+            do
+            {
+                Console.Clear();
+                Console.WriteLine("Choose A Question From The Folowing:\n1. ArrayList. \n2. SortedList \n3. Stack \n4. Queue \n5. Hashtable");
+                Console.Write("Enter a number : ");
+            } while (!int.TryParse(Console.ReadLine(), out Qnumber));
 
+            Console.Clear();
+            switch (Qnumber)
+            {
+                case 1:
+                    Non_Ginaric_Collections.ArrayListExample();
+                    break;
+                case 2:
+                    Non_Ginaric_Collections.SortedListExample();    
+                    break;
+                case 3:
+                    Non_Ginaric_Collections.StackExample();
+                    break;
+                case 4:
+                    Non_Ginaric_Collections.QueueExample();
+                    break;
+                case 5:
+                    Non_Ginaric_Collections.HashtableExample();
+                    break;
+            }
+        }
 
+        public static void GenericCollections()
+        {
+            int Qnumber;
+            do
+            {
+                Console.Clear();
+                Console.WriteLine("Choose A Question From The Folowing:\n1. List. \n2. Dictionary. \n3. SortedList. \n4. Queue \n5. Stack.\n6. SortedDictionary");
+                Console.Write("Enter a number : ");
+            } while (!int.TryParse(Console.ReadLine(), out Qnumber));
+
+            Console.Clear();
+            switch (Qnumber)
+            {
+                case 1:
+                    Ginaric_Collections.ListExample();
+                    break;
+                case 2:
+                    Ginaric_Collections.DictionaryExample();
+                    break;
+                case 3:
+                    Ginaric_Collections.SortedListExample();
+                    break;
+                case 4:
+                    Ginaric_Collections.QueueExample();
+                    break;
+                case 5:
+                    Ginaric_Collections.StackExample();
+                    break;
+                case 6:
+                    Ginaric_Collections.SortedDictionaryExample();
+                    break;
+            }
         }
     }
 }

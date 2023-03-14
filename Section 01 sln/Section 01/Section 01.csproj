@@ -9,6 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Ginaric and Non Ginaric Collections\Ginaric and Non Ginaric Collections.csproj" />
     <ProjectReference Include="..\Session 01\Session 01.csproj" />
   </ItemGroup>
 

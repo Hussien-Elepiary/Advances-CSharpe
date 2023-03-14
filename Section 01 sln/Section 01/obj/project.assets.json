@@ -2,6 +2,16 @@
   "version": 3,
   "targets": {
     "net6.0": {
+      "Ginaric and Non Ginaric Collections/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Ginaric and Non Ginaric Collections.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Ginaric and Non Ginaric Collections.dll": {}
+        }
+      },
       "Session 01/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -15,6 +25,11 @@
     }
   },
   "libraries": {
+    "Ginaric and Non Ginaric Collections/1.0.0": {
+      "type": "project",
+      "path": "../Ginaric and Non Ginaric Collections/Ginaric and Non Ginaric Collections.csproj",
+      "msbuildProject": "../Ginaric and Non Ginaric Collections/Ginaric and Non Ginaric Collections.csproj"
+    },
     "Session 01/1.0.0": {
       "type": "project",
       "path": "../Session 01/Session 01.csproj",
@@ -23,27 +38,24 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Ginaric and Non Ginaric Collections >= 1.0.0",
       "Session 01 >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hussi\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Hussien Assem\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\BackEnd\\Advanced C#\\Section 01 sln\\Section 01\\Section 01.csproj",
+      "projectUniqueName": "D:\\Corse\\Advances-CSharpe\\Section 01 sln\\Section 01\\Section 01.csproj",
       "projectName": "Section 01",
-      "projectPath": "F:\\BackEnd\\Advanced C#\\Section 01 sln\\Section 01\\Section 01.csproj",
-      "packagesPath": "C:\\Users\\hussi\\.nuget\\packages\\",
-      "outputPath": "F:\\BackEnd\\Advanced C#\\Section 01 sln\\Section 01\\obj\\",
+      "projectPath": "D:\\Corse\\Advances-CSharpe\\Section 01 sln\\Section 01\\Section 01.csproj",
+      "packagesPath": "C:\\Users\\Hussien Assem\\.nuget\\packages\\",
+      "outputPath": "D:\\Corse\\Advances-CSharpe\\Section 01 sln\\Section 01\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\hussi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Hussien Assem\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -57,8 +69,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "F:\\BackEnd\\Advanced C#\\Section 01 sln\\Session 01\\Session 01.csproj": {
-              "projectPath": "F:\\BackEnd\\Advanced C#\\Section 01 sln\\Session 01\\Session 01.csproj"
+            "D:\\Corse\\Advances-CSharpe\\Section 01 sln\\Ginaric and Non Ginaric Collections\\Ginaric and Non Ginaric Collections.csproj": {
+              "projectPath": "D:\\Corse\\Advances-CSharpe\\Section 01 sln\\Ginaric and Non Ginaric Collections\\Ginaric and Non Ginaric Collections.csproj"
+            },
+            "D:\\Corse\\Advances-CSharpe\\Section 01 sln\\Session 01\\Session 01.csproj": {
+              "projectPath": "D:\\Corse\\Advances-CSharpe\\Section 01 sln\\Session 01\\Session 01.csproj"
             }
           }
         }
@@ -88,7 +103,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

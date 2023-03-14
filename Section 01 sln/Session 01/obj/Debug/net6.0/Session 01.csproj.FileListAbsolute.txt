@@ -10,3 +10,15 @@ F:\BackEnd\Advanced C#\Section 01 sln\Session 01\obj\Debug\net6.0\Session 01.dll
 F:\BackEnd\Advanced C#\Section 01 sln\Session 01\obj\Debug\net6.0\refint\Session 01.dll
 F:\BackEnd\Advanced C#\Section 01 sln\Session 01\obj\Debug\net6.0\Session 01.pdb
 F:\BackEnd\Advanced C#\Section 01 sln\Session 01\obj\Debug\net6.0\ref\Session 01.dll
+D:\Corse\Advances-CSharpe\Section 01 sln\Session 01\bin\Debug\net6.0\Session 01.deps.json
+D:\Corse\Advances-CSharpe\Section 01 sln\Session 01\bin\Debug\net6.0\Session 01.dll
+D:\Corse\Advances-CSharpe\Section 01 sln\Session 01\bin\Debug\net6.0\Session 01.pdb
+D:\Corse\Advances-CSharpe\Section 01 sln\Session 01\obj\Debug\net6.0\Session 01.csproj.AssemblyReference.cache
+D:\Corse\Advances-CSharpe\Section 01 sln\Session 01\obj\Debug\net6.0\Session 01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Corse\Advances-CSharpe\Section 01 sln\Session 01\obj\Debug\net6.0\Session 01.AssemblyInfoInputs.cache
+D:\Corse\Advances-CSharpe\Section 01 sln\Session 01\obj\Debug\net6.0\Session 01.AssemblyInfo.cs
+D:\Corse\Advances-CSharpe\Section 01 sln\Session 01\obj\Debug\net6.0\Session 01.csproj.CoreCompileInputs.cache
+D:\Corse\Advances-CSharpe\Section 01 sln\Session 01\obj\Debug\net6.0\Session 01.dll
+D:\Corse\Advances-CSharpe\Section 01 sln\Session 01\obj\Debug\net6.0\refint\Session 01.dll
+D:\Corse\Advances-CSharpe\Section 01 sln\Session 01\obj\Debug\net6.0\Session 01.pdb
+D:\Corse\Advances-CSharpe\Section 01 sln\Session 01\obj\Debug\net6.0\ref\Session 01.dll

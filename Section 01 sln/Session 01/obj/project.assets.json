@@ -8,23 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\hussi\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Hussien Assem\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\BackEnd\\Advanced C#\\Section 01 sln\\Session 01\\Session 01.csproj",
+      "projectUniqueName": "D:\\Corse\\Advances-CSharpe\\Section 01 sln\\Session 01\\Session 01.csproj",
       "projectName": "Session 01",
-      "projectPath": "F:\\BackEnd\\Advanced C#\\Section 01 sln\\Session 01\\Session 01.csproj",
-      "packagesPath": "C:\\Users\\hussi\\.nuget\\packages\\",
-      "outputPath": "F:\\BackEnd\\Advanced C#\\Section 01 sln\\Session 01\\obj\\",
+      "projectPath": "D:\\Corse\\Advances-CSharpe\\Section 01 sln\\Session 01\\Session 01.csproj",
+      "packagesPath": "C:\\Users\\Hussien Assem\\.nuget\\packages\\",
+      "outputPath": "D:\\Corse\\Advances-CSharpe\\Section 01 sln\\Session 01\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\hussi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Hussien Assem\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -65,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,12 @@
+D:\Corse\Advances-CSharpe\Section 01 sln\Ginaric and Non Ginaric Collections\bin\Debug\net6.0\Ginaric and Non Ginaric Collections.deps.json
+D:\Corse\Advances-CSharpe\Section 01 sln\Ginaric and Non Ginaric Collections\bin\Debug\net6.0\Ginaric and Non Ginaric Collections.dll
+D:\Corse\Advances-CSharpe\Section 01 sln\Ginaric and Non Ginaric Collections\bin\Debug\net6.0\Ginaric and Non Ginaric Collections.pdb
+D:\Corse\Advances-CSharpe\Section 01 sln\Ginaric and Non Ginaric Collections\obj\Debug\net6.0\Ginaric and Non Ginaric Collections.csproj.AssemblyReference.cache
+D:\Corse\Advances-CSharpe\Section 01 sln\Ginaric and Non Ginaric Collections\obj\Debug\net6.0\Ginaric and Non Ginaric Collections.GeneratedMSBuildEditorConfig.editorconfig
+D:\Corse\Advances-CSharpe\Section 01 sln\Ginaric and Non Ginaric Collections\obj\Debug\net6.0\Ginaric and Non Ginaric Collections.AssemblyInfoInputs.cache
+D:\Corse\Advances-CSharpe\Section 01 sln\Ginaric and Non Ginaric Collections\obj\Debug\net6.0\Ginaric and Non Ginaric Collections.AssemblyInfo.cs
+D:\Corse\Advances-CSharpe\Section 01 sln\Ginaric and Non Ginaric Collections\obj\Debug\net6.0\Ginaric and Non Ginaric Collections.csproj.CoreCompileInputs.cache
+D:\Corse\Advances-CSharpe\Section 01 sln\Ginaric and Non Ginaric Collections\obj\Debug\net6.0\Ginaric and Non Ginaric Collections.dll
+D:\Corse\Advances-CSharpe\Section 01 sln\Ginaric and Non Ginaric Collections\obj\Debug\net6.0\refint\Ginaric and Non Ginaric Collections.dll
+D:\Corse\Advances-CSharpe\Section 01 sln\Ginaric and Non Ginaric Collections\obj\Debug\net6.0\Ginaric and Non Ginaric Collections.pdb
+D:\Corse\Advances-CSharpe\Section 01 sln\Ginaric and Non Ginaric Collections\obj\Debug\net6.0\ref\Ginaric and Non Ginaric Collections.dll

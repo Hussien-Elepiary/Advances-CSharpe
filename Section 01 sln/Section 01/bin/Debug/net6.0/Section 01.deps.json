@@ -11,6 +11,11 @@
           "Section 01.dll": {}
         }
       },
+      "Ginaric and Non Ginaric Collections/1.0.0": {
+        "runtime": {
+          "Ginaric and Non Ginaric Collections.dll": {}
+        }
+      },
       "Session 01/1.0.0": {
         "runtime": {
           "Session 01.dll": {}
@@ -20,6 +25,11 @@
   },
   "libraries": {
     "Section 01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ginaric and Non Ginaric Collections/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
