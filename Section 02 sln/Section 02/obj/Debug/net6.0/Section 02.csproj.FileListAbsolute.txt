@@ -1,0 +1,18 @@
+F:\BackEnd\Advanced C#\Section 02 sln\Section 02\obj\Debug\net6.0\Section 02.csproj.AssemblyReference.cache
+F:\BackEnd\Advanced C#\Section 02 sln\Section 02\obj\Debug\net6.0\Section 02.GeneratedMSBuildEditorConfig.editorconfig
+F:\BackEnd\Advanced C#\Section 02 sln\Section 02\obj\Debug\net6.0\Section 02.AssemblyInfoInputs.cache
+F:\BackEnd\Advanced C#\Section 02 sln\Section 02\obj\Debug\net6.0\Section 02.AssemblyInfo.cs
+F:\BackEnd\Advanced C#\Section 02 sln\Section 02\obj\Debug\net6.0\Section 02.csproj.CoreCompileInputs.cache
+F:\BackEnd\Advanced C#\Section 02 sln\Section 02\bin\Debug\net6.0\Section 02.exe
+F:\BackEnd\Advanced C#\Section 02 sln\Section 02\bin\Debug\net6.0\Section 02.deps.json
+F:\BackEnd\Advanced C#\Section 02 sln\Section 02\bin\Debug\net6.0\Section 02.runtimeconfig.json
+F:\BackEnd\Advanced C#\Section 02 sln\Section 02\bin\Debug\net6.0\Section 02.dll
+F:\BackEnd\Advanced C#\Section 02 sln\Section 02\bin\Debug\net6.0\Section 02.pdb
+F:\BackEnd\Advanced C#\Section 02 sln\Section 02\bin\Debug\net6.0\Library.dll
+F:\BackEnd\Advanced C#\Section 02 sln\Section 02\bin\Debug\net6.0\Library.pdb
+F:\BackEnd\Advanced C#\Section 02 sln\Section 02\obj\Debug\net6.0\Section 02.csproj.CopyComplete
+F:\BackEnd\Advanced C#\Section 02 sln\Section 02\obj\Debug\net6.0\Section 02.dll
+F:\BackEnd\Advanced C#\Section 02 sln\Section 02\obj\Debug\net6.0\refint\Section 02.dll
+F:\BackEnd\Advanced C#\Section 02 sln\Section 02\obj\Debug\net6.0\Section 02.pdb
+F:\BackEnd\Advanced C#\Section 02 sln\Section 02\obj\Debug\net6.0\Section 02.genruntimeconfig.cache
+F:\BackEnd\Advanced C#\Section 02 sln\Section 02\obj\Debug\net6.0\ref\Section 02.dll
